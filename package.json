@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:masahiro3284/leetcode.git",
+  "author": "masahiro mitsuhashi <masahiro.mitsuhashi@nts.ricoh.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "ts-node": "^10.9.1"
+  }
+}
